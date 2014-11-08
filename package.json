@@ -1,0 +1,27 @@
+{
+	"name":"projectile",
+	"version":"0.1.0",
+	"description":"An easy way to route requests going to different sections of your website to be handled by a different node.js script to easily allow for multiple projects to be hosted on the same server",
+	"keywords":["project","projects","route","routing","files","file","organization","organized","organize"],
+	"homepage":"ADD HERE LATER!!!",
+	"license":"CC-BY-NC-SA-4.0",
+	"author":{
+		"name":"Mark Polyakov",
+		"url":"http://markasoftware.com/"
+	},
+	"files":[
+		"./lib/main.js"
+	],
+	"main":"./lib/main.js",
+	"directories":{
+		"lib":"./lib",
+		"example":"./examples"
+	},
+	"respository":{
+		"type":"git",
+		"url":"http://hellokitty.com/"
+	},
+	"dependencies":{
+		"colors":"latest"
+	}
+}
