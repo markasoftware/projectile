@@ -1,4 +1,8 @@
+<<<<<<< HEAD
                     GNU GENERAL PUBLIC LICENSE
+=======
+GNU GENERAL PUBLIC LICENSE
+>>>>>>> b53881b803852ff3b24c1c3f3c453e03326c4111
                        Version 2, June 1991
 
  Copyright (C) 1989, 1991 Free Software Foundation, Inc., <http://fsf.org/>
@@ -337,3 +341,7 @@ proprietary programs.  If your program is a subroutine library, you may
 consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
+<<<<<<< HEAD
+=======
+
+>>>>>>> b53881b803852ff3b24c1c3f3c453e03326c4111
