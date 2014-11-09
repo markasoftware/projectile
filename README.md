@@ -1,5 +1,5 @@
 #Projectile
-Do you have a lot of node.js projects you're working on, and want to run them all from one website, on the same domain and port, but don't want to use a proxy? Projectile is what you should use! It's an easy way to have multiple node.js http servers and run them on different paths (e.g. /my-chat-client or /hello), without having to use a 
+Do you have a lot of node.js projects you're working on, and want to run them all from one website, on the same domain and port, but don't want to use a proxy? Projectile is what you should use! It's an easy way to have multiple node.js http servers, each one in different files, and route requests to them when requests come to certain paths (e.g. /my-chat-client or /hello), without having to use a proxy, which allows for easier deployment stuff, and sometimes better performance
 #Installation
 Just a normal node.js package:
 
